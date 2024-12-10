@@ -1,0 +1,102 @@
+[
+    {
+        "id": 924365,
+        "name": "Макартур 1968",
+        "city": "Кишинев",
+        "begin": 24.05,
+        "system": "Swiss",
+        "tours_count": 12,
+        "min_rating": 2562,
+        "time_on_game": 178
+    },
+    {
+        "id": 914818,
+        "name": "Макартур 1989",
+        "city": "Самора",
+        "begin": 23.11,
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2236,
+        "time_on_game": 173
+    },
+    {
+        "id": 405992,
+        "name": "Мемориал Таля 2015",
+        "city": "Валенсия",
+        "begin": 23.05,
+        "system": "Swiss",
+        "tours_count": 11,
+        "min_rating": 2611,
+        "time_on_game": 168
+    },
+    {
+        "id": 189242,
+        "name": "Мемориал Таля 1996",
+        "city": "Вильнюс",
+        "begin": 24.08,
+        "system": "Olympic",
+        "tours_count": 12,
+        "min_rating": 2382,
+        "time_on_game": 167
+    },
+    {
+        "id": 463908,
+        "name": "Гашиш 1970",
+        "city": "Бишкек",
+        "begin": 25.09,
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2245,
+        "time_on_game": 165
+    },
+    {
+        "id": 784519,
+        "name": "Балтийская цепь 1993",
+        "city": "Вильнюс",
+        "begin": 23.02,
+        "system": "Olympic",
+        "tours_count": 15,
+        "min_rating": 2289,
+        "time_on_game": 158
+    },
+    {
+        "id": 777986,
+        "name": "Вейк-ан-Зее 2003",
+        "city": "Касерес",
+        "begin": 28.01,
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2234,
+        "time_on_game": 153
+    },
+    {
+        "id": 305595,
+        "name": "Вейк-ан-Зее 2019",
+        "city": "Семана",
+        "begin": 22.1,
+        "system": "Swiss",
+        "tours_count": 12,
+        "min_rating": 2409,
+        "time_on_game": 152
+    },
+    {
+        "id": 624893,
+        "name": "Балтийская цепь 2010",
+        "city": "Самора",
+        "begin": 21.09,
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2613,
+        "time_on_game": 151
+    },
+    {
+        "id": 684160,
+        "name": "Цюрих 2023",
+        "city": "Малага",
+        "begin": 27.01,
+        "system": "circular",
+        "tours_count": 7,
+        "min_rating": 2603,
+        "time_on_game": 137
+    }
+]

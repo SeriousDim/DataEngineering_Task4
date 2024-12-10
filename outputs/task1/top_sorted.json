@@ -1,0 +1,102 @@
+[
+    {
+        "id": 865436,
+        "name": "Хогевен 2004",
+        "city": "София",
+        "begin": 1.12,
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2547,
+        "time_on_game": 109
+    },
+    {
+        "id": 172669,
+        "name": "Аэрофлот Опен 1972",
+        "city": "Алма-Ата",
+        "begin": 2.01,
+        "system": "Swiss",
+        "tours_count": 12,
+        "min_rating": 2304,
+        "time_on_game": 153
+    },
+    {
+        "id": 536329,
+        "name": "Тилбург 1979",
+        "city": "Афины",
+        "begin": 2.04,
+        "system": "circular",
+        "tours_count": 13,
+        "min_rating": 2279,
+        "time_on_game": 16
+    },
+    {
+        "id": 543493,
+        "name": "Алушта 1997",
+        "city": "Картахена",
+        "begin": 2.1,
+        "system": "circular",
+        "tours_count": 14,
+        "min_rating": 2561,
+        "time_on_game": 33
+    },
+    {
+        "id": 648106,
+        "name": "Мемориал Таля 1950",
+        "city": "Ла-Корунья",
+        "begin": 3.06,
+        "system": "Olympic",
+        "tours_count": 12,
+        "min_rating": 2393,
+        "time_on_game": 45
+    },
+    {
+        "id": 901725,
+        "name": "Балтийская цепь 1968",
+        "city": "Сьюдад-Реаль",
+        "begin": 3.07,
+        "system": "Olympic",
+        "tours_count": 13,
+        "min_rating": 2508,
+        "time_on_game": 111
+    },
+    {
+        "id": 797645,
+        "name": "Кубок мира 2016",
+        "city": "Ереван",
+        "begin": 4.08,
+        "system": "circular",
+        "tours_count": 7,
+        "min_rating": 2528,
+        "time_on_game": 15
+    },
+    {
+        "id": 677770,
+        "name": "Пальма 2004",
+        "city": "Куэнка",
+        "begin": 5.01,
+        "system": "Swiss",
+        "tours_count": 6,
+        "min_rating": 2447,
+        "time_on_game": 88
+    },
+    {
+        "id": 855733,
+        "name": "Турнир претендентов 1983",
+        "city": "Кишинев",
+        "begin": 5.01,
+        "system": "Olympic",
+        "tours_count": 15,
+        "min_rating": 2360,
+        "time_on_game": 155
+    },
+    {
+        "id": 578144,
+        "name": "Дортмунд 2000",
+        "city": "Сантьяго-де-Компостела",
+        "begin": 5.03,
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2520,
+        "time_on_game": 178
+    }
+]
