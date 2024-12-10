@@ -39,6 +39,13 @@ class Products(TableORM):
     def update(self, cursor, entry, condition):
         cursor.execute(f"""
                 UPDATE {self.name}
-                SET explicit = {entry[0]}, loudness = {entry[1]}
+                SET {entry[0]} = {entry[1]}, changes = changes + 1
                 WHERE {condition};
             """)
+
+    @auto_commit
+    def delete(self, cursor, condition):
+        cursor.execute(f"""
+                        DELETE FROM {self.name}
+                        WHERE {condition};
+                    """)
